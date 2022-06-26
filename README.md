@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Watch it live](https://base-apparel-coming-soon-page-azure.vercel.app/)
 
 ## My process
 
