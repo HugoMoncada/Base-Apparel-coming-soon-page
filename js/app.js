@@ -12,7 +12,7 @@ form.addEventListener("submit", function (e) {
     const valid = validRegex.test(input.value);
 
     if(valid == false){
-        response.innerHTML= "please provide a valid email";
+        response.innerHTML= "Please provide a valid email";
         response.style.color = "red"
         errorIcon.style.display= "block";
         input.style.border = "1px solid red";
